@@ -7,9 +7,9 @@ Breakout boards are useful during the prototyping design phase, as they allow fu
 
 This repository contains breakout boards for the following footprints: 
 
-* [16-pin HTSSOP](#16-pin HTSSOP): DRV8833CPWPR
+* [16-pin HTSSOP](#16-pin_HTSSOP): DRV8833CPWPR
 
-## 16-pin HTSSOP
+## 16-pin_HTSSOP
 * Package footprint
 * Intended part designed for DRV, special layout considerations?
 * Mechanical drawing
